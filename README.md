@@ -1,11 +1,12 @@
 Hi 👋 👋 👀  
 
-I’m @aalons01. Data scientist interested in all about Machine Learning, Automation, Optimization and Statistics.
+I’m @aalons01, Data scientist working at Dentsu, a well-known media agency. I am interested in everything around Machine Learning, Automation, Optimization and Statistics.
 
 ### 🌱 Learning now
 - Docker
 - Kubernetes
 - Django
+
 ### 💞️ Looking for...
 - Collaborate on challenging ML projects
 - Teaching data science to newcomers
