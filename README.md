@@ -1,6 +1,6 @@
 Hi 👋 👋 👀  
 
-I’m @aalons01, Data scientist working at Dentsu, a well-known media agency. I am interested in everything around Machine Learning, Automation, Optimization and Statistics.
+I’m @aalons01, Data scientist working at a well-known media agency in Spain. I am interested in everything around Machine Learning, Automation, Optimization and Statistics.
 
 ### 🌱 Learning now
 - Docker
