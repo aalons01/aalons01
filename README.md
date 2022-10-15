@@ -7,7 +7,7 @@ I’m @aalons01, Data scientist working at Dentsu, a well-known media agency. I 
 - Kubernetes
 - Django
 
-### 💞️ Looking for...
+### 💞️ Looking for
 - Collaborate on challenging ML projects
 - Teaching data science to newcomers
 
